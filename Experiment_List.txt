@@ -1,0 +1,65 @@
+LIST OF LAB EXPERIMENTS
+ 1. Familiarization of Hardware Components of a Computer
+
+ 2. Familiarization of Linux environment – How to do Programming in C with Linux
+
+ 3. Familiarization of console I/O and operators in C
+	i) Display “Hello World”
+	ii) Read two numbers, add them and display theirsum
+	iii) Read the radius of a circle, calculate its area and display it
+ 	iv)Evaluate the arithmetic expression ((a -b / c * d + e) * (f +g)) and display its solution.Read
+	the values of the variables from the user through console.
+
+ 4. Read 3 integer values and find the largest amoung them.
+
+ 5. Read a Natural Number and check whether the number is prime or not
+
+ 6. Read a Natural Number and check whether the number is Armstrong or not
+
+ 7. Read n integers, store them in an array and find their sum and average
+
+ 8. Read n integers, store them in an array and search for an element in the
+	array using an algorithm for Linear Search
+
+ 9. Read n integers, store them in an array and sort the elements in the array using Bubble Sort
+	algorithm
+
+ 10. Read a string (word), store it in an array and check whether it is a palindrome word or not.
+
+ 11.Read two strings (each one ending with a $ symbol), store them in
+	arrays and concatenate them without using library functions.
+
+ 12. Read a string (ending with a $ symbol), store it in an array and count the number of vowels,
+	consonants and spaces in it.
+
+ 13. Read two input each representing the distances between two points in the Euclidean space,
+	store these in structure variables and add the two distance values.
+
+ 14. Using structure, read and print data of n employees (Name, Employee Id and Salary)
+
+ 15. Declare a union containing 5 string variables (Name, House Name, City Name, State and Pin
+	code) each with a length of C_SIZE (user defined constant). Then, read and display the address of a
+	person using a variable of the union.
+
+ 16. Find the factorial of a given Natural Number n usingrecursive and non recursive functions
+
+ 17. Read a string (word), store it in an array and obtain its reverse by using a user defined function.
+
+ 18. Write a menu driven program for performing matrix addition, multiplication and finding the
+	transpose. Use functions to (i) read a matrix, (ii) find the sum of two matrices, (iii) find the product
+	of two matrices, (i) find the transpose of a matrix and (v) display a matrix.
+
+ 19. Do the following using pointers
+	i) add two numbers
+	ii) swap two numbers using a user defined function
+20. Input and Print the elements of an array using pointers
+
+21. Compute sum of the elements stored in an array using pointers and user defined function.
+
+22. Create a file and perform the following
+	iii) Write data to the file
+	iv) Read the data in a given file & display the file content on console
+	v) append new data and display on console
+
+23. Open a text input file and count number of characters, words and lines in it; and store the results
+	in an output file
