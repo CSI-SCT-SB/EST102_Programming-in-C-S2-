@@ -4,4 +4,5 @@ A Repository for Sharing Programming in C  Codes (S2)
 - This repository is hacktoberfest supported
 - Any misconduct will lead to spam label.
 - File should be of the format __ExpNo._ExperimentName__
-- No duplication is entertained
+- No duplication is entertained.
+- The contributions made under the banner of hacktober fest should satisfy the hacktober fest guidelines.
